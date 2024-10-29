@@ -1,0 +1,27 @@
+h1 {
+    font-family: Arial, sans-serif;
+    color: #b247b8;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+li {
+    margin: 5px 0;
+}
+div {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin: 5px 0;
+}
+span {
+    font-weight: bold;
+    color: #555;
+}
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
