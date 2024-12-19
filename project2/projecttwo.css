@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8ba5c8;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .task-buttons {
+    display: flex;
+    gap: 10px;
+  }
+h1 style {
+    border-color: tomato;
+  }
